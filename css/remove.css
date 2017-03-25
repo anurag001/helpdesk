@@ -1,0 +1,76 @@
+body{
+
+	background:radial-gradient(#fff,skyblue,#fff);
+}
+#main{
+	background:linear-gradient(skyblue,#fff,blue);
+}
+#student-list{
+	border:1px solid black;
+	box-shadow:1px 2px 3px rgb(170,170,170);
+	height:auto;
+	width:700px;
+	border-radius:4px;
+	font-family:robom;
+	font-size:1.2em;
+	color:rgb(48,48,48);
+	position:absolute;
+	top:50px;
+	left:25%;
+	text-align:center;
+	background-color:white;
+	
+}
+#student-head{
+		font-family:robob;
+		font-size:1.4em;
+		color:blue;
+}
+#facility-list{
+	border:1px solid black;
+	box-shadow:1px 2px 3px rgb(170,170,170);
+	height:auto;
+	width:700px;
+	border-radius:4px;
+	font-family:robom;
+	font-size:1.2em;
+	color:rgb(48,48,48);
+	position:absolute;
+	top:400px;
+	left:25%;
+	text-align:center;
+	background-color:white;
+	display:none;
+	
+}
+#facility-head{
+		font-family:robob;
+		font-size:1.4em;
+		color:blue;
+}
+#select_stud{
+	float:left;
+	font-family:vonique;
+	font-size:1.2em;
+	color:green;
+	cursor:pointer;
+	height:50px;
+	width:150px;
+	border:2px solid green;
+	background-color:#fff;
+padding:3px;
+text-align:center;
+}
+#select_fac{
+	float:right;
+	font-family:vonique;
+	font-size:1.2em;
+	color:green;
+	height:50px;
+	width:150px;
+padding:3px;
+text-align:center;
+	border:2px solid green;
+	background-color:#fff;
+	cursor:pointer;
+}

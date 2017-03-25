@@ -1,0 +1,184 @@
+#add_student{
+	height:auto;
+	box-shadow:0px 0px 6px black;
+	width:420px;
+	position:absolute;
+	border-radius:5px;
+	left:5%;
+	top:80px;
+	text-align:center;
+	background-color:#fff;
+}
+#add_head{
+	font-family:robom;
+	font-size:1.3em;
+}
+#stud_id{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#name{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#gender{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#age{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#address{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#mob_number{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#address{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#email{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#address{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#stream{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#password{
+	width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#submit{
+	width:420px;
+	height:50px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robom;
+	font-size:1.2em;
+	color:white;
+	background-color:#3EA99F;
+	border:2px solid #fff;
+	cursor:pointer;
+}
+#submit:hover{
+		background-color:#5CB3FF;
+
+}
+#fac_id:hover,#stud_id:hover,#name:hover,#gender:hover,#age:hover,#address:hover,#mob_number:hover,#stream:hover,#password:hover,#email:hover{
+	box-shadow:0px 0px 25px #8EEBEC;
+}
+#result-box{
+	height:50px;
+	box-shadow:0px 0px 6px black;
+	width:420px;
+	position:absolute;
+	border-radius:5px;
+	font-family:ralewayreg;
+	color:rgb(43,112,149);
+	left:30%;
+	top:120px;
+	text-align:center;
+	padding-top:5px;
+	background-color:#fff;
+}
+#result-head{
+	height:auto;
+	box-shadow:0px 0px 6px black;
+	width:420px;
+	position:absolute;
+	border-radius:5px;
+	font-family:robol;
+	color:rgb(43,112,149);
+	left:30%;
+	top:80px;
+	text-align:center;
+	padding-top:5px;
+	cursor:pointer;
+		background-color:#fff;
+
+	
+}
+#fac_id{
+width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#purpose{
+width:250px;
+	height:22px;
+	border-radius:3px;
+	padding:4px;
+	font-family:robol;
+	font-size:1.0em;
+}
+#remove-list{
+height:30px;
+	box-shadow:0px 0px 6px black;
+	width:420px;
+	position:absolute;
+	border-radius:5px;
+	font-family:ralewayreg;
+	color:rgb(43,112,149);
+	left:30%;
+	top:190px;
+	text-align:center;
+	padding-top:5px;
+		background-color:#fff;
+
+}
